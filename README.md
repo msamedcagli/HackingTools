@@ -6,7 +6,7 @@
 </ul>
 
 <br><br>
-<h2 id="#MacAddress">🛠️ MAC Adresi Değiştirme Scripti (Python)</h2>
+<h2 id="MacAddress">🛠️ MAC Adresi Değiştirme Scripti (Python)</h2>
 
 <p>
 Bu Python projesi, Linux işletim sistemlerinde bir ağ arayüzünün MAC adresini geçici olarak değiştirmek için kullanılır.
@@ -71,7 +71,7 @@ Güvenlik testlerinde anonimlik sağlamak, ağ üzerinde cihaz kimliğini gizlem
 <hr><hr>
 <br>
 
-<h2 id="#NetScanner">🔍 NetScannerTool - Basit ARP Ağ Tarayıcısı</h2>
+<h2 id="NetScanner">🔍 NetScannerTool - Basit ARP Ağ Tarayıcısı</h2>
 
 <p>
 NetScannerTool, Python ve Scapy kullanarak bir yerel ağdaki cihazları tespit eden basit bir ağ tarama aracıdır.
@@ -127,7 +127,7 @@ sudo python3 net_scanner.py -i 10.0.2.1/24
 <br>
 <hr><hr>
 <br>
-<h2 id="#MITM">🛠️ Man in the Middle</h2>
+<h2 id="MITM">🛠️ Man in the Middle</h2>
 <h3>Yakında Eklenecek</h3>
 
 
